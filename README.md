@@ -2,10 +2,10 @@ I will not be held responsible for any losses incured using this bot.
 Make sure to have installed Mt5 and python for your computer.
 Use - bash
 
-'pip install MetaTrader5
+_pip install MetaTrader5_
 
-'pip install --upgrade pip setuptools
+_pip install --upgrade pip setuptools_
 
-'python -m pip install pandas
+_python -m pip install pandas_
 
-'python -m pip install numpy
+_python -m pip install numpy_
